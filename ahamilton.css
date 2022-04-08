@@ -1,2 +1,12 @@
+body{
+  background-color: #610e08;
+}
 .boxshadow{
+  background-color: #ed4c40;
+  box-shadow: 10px 10px;
+}
+ .divcard{
+     width: 250px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     text-align: center;
 }
